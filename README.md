@@ -28,7 +28,7 @@ https://whimsical.com/MUjZXv4doGUaddtpWeoGTT
 
 postmanCollection:
 
-[Uploading Quasar{
+Uploading Quasar{
 	"info": {
 		"_postman_id": "e8138d9d-9dc3-4f5f-ac1e-be00ae7750fe",
 		"name": "Quasar",
@@ -142,4 +142,4 @@ postmanCollection:
 			"response": []
 		}
 	]
-}.postman_collection.json…]()
+}
